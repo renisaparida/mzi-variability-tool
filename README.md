@@ -198,5 +198,5 @@ If you use this tool in your research, please cite:
 
 ```
 Parida, R., "Variability-Aware PIC Design Tool for MZI Optical Switches," 2026.
-GitHub: [your repo link here]
+GitHub: https://github.com/renisaparida/mzi-variability-tool
 ```
