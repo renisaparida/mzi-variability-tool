@@ -1,0 +1,5 @@
+parameter,baseline_value_nm,yield_at_minus_50,yield_baseline,yield_at_plus_50,sensitivity
+Width σ,18.0,82.85,70.1,50.9,19.199999999999996
+Gap σ,6.0,84.05,70.1,53.3,16.799999999999997
+Height σ,12.0,71.95,70.1,67.4,2.6999999999999886
+Length σ,59.99999999999999,69.4,70.1,67.95,2.1499999999999915

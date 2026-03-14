@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+outputs/
+design_rules/figures/
+.venv/
